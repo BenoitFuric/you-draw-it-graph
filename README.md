@@ -10,7 +10,7 @@ This repository is a fork from <a href="https://bl.ocks.org/1wheel/07d9040c3422d
 ![DrawIt gif](https://benoitfuric.github.io/you-draw-it-graph/DrawIt.gif)
 
 ## Set the range
-In ``js/_script.js``, put the limit of the view.
+In ``js/_script.js``, put the limit of the view, according to your data.
 
 ```javascript
 c.x.domain([2007, 2016])
