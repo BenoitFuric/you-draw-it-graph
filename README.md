@@ -8,7 +8,7 @@ This repository is a fork from <a href="https://bl.ocks.org/1wheel/07d9040c3422d
 [Check the demo] (http://furic.be/web/draw-it/)
 
 
-## Define the range
+## Set the graph
 In ``js/_script.js``, put 
 
 ```javascript
