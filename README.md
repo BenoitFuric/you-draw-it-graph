@@ -4,10 +4,8 @@ Inspired by the New York Times article : [You Draw It: What Got Better or Worse 
 	
 This repository is a fork from <a href="https://bl.ocks.org/1wheel/07d9040c3422dac16bd5be741433ff1e">Adam Pearce’s early/simplified version of “You draw it”</a>, based on <a href="https://d3js.org/">D3.js</a>.
 
-An interactive graph which works on desktop and mobile.
-	
 ## Demo
-[Check the demo] (http://furic.be/web/draw-it/)
+[Check the demo] (http://furic.be/web/draw-it/) - An interactive graph which works on desktop and mobile.
 
 
 ## Set the graph
