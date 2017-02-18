@@ -18,8 +18,9 @@ c.y.domain([0, 700])
 
 ## Place your graph
 You can define the place of the  in ``js/_script.js``.  Choose an element or an id.
-
-`var sel = d3.select('#infographie').html('')`
+```javascript
+var sel = d3.select('#infographie').html('')`
+```
 
 # Todo / Option to  :
 - Add a button below to reveal the result (instead of 
