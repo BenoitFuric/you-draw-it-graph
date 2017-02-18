@@ -7,6 +7,7 @@ This repository is a fork from <a href="https://bl.ocks.org/1wheel/07d9040c3422d
 ## Demo
 [Check the demo] (https://benoitfuric.github.io/you-draw-it-graph/) - An interactive graph which works on desktop and mobile.
 
+![DrawIt gif](https://benoitfuric.github.io/you-draw-it-graph/DrawIt.gif)
 
 ## Set the range
 In ``js/_script.js``, put the limit of the view.
