@@ -8,8 +8,13 @@ This repository is a fork from <a href="https://bl.ocks.org/1wheel/07d9040c3422d
 [Check the demo] (http://furic.be/web/draw-it/)
 
 
-## Change color
-fgfggfg
+## Define the range
+In ``js/_script.js``, put 
+
+```javascript
+c.x.domain([2007, 2016])
+c.y.domain([0, 700])
+```
 
 ## Place your graph
 You can define the place of the  in ``js/_script.js``.  Choose an element or an id.
