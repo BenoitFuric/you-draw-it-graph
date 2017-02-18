@@ -17,14 +17,14 @@ c.x.domain([2007, 2016])
 c.y.domain([0, 700])
 ```
 
-## Place your graph
+## Place your graph in your page
 You can define the place of the  in ``js/_script.js``.  Choose an element or an id.
 ```javascript
 var sel = d3.select('#infographie').html('')`
 ```
 
 # Todo / Option to  :
-- Add a button below to reveal the result (instead of 
+- Reveal the result with a button and not at the end of the drawing
 - Display data on the graph
-- Add 
+- Add a grid
  
