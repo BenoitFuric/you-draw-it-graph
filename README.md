@@ -8,8 +8,8 @@ This repository is a fork from <a href="https://bl.ocks.org/1wheel/07d9040c3422d
 [Check the demo] (http://furic.be/web/draw-it/) - An interactive graph which works on desktop and mobile.
 
 
-## Set the graph
-In ``js/_script.js``, put 
+## Set the range
+In ``js/_script.js``, put the limit of the view.
 
 ```javascript
 c.x.domain([2007, 2016])
